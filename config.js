@@ -4,9 +4,7 @@ var config = {
 	site_title: 'Raneto Docs',
 
 	// The base URL of your site (can use %base_url% in Markdown files)
-	base_url: 'http://hiremethod.com/help/jobseeker',
-
-	base_path: '/help/jobseeker',
+	base_url: '',
 
 	// Used for the "Get in touch" page footer link
 	support_email: '',
