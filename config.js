@@ -6,7 +6,7 @@ var config = {
 	// The base URL of your site (can use %base_url% in Markdown files)
 	base_url: 'http://hiremethod.com/help/jobseeker',
 
-	base_path: '/help/jobseeker'
+	base_path: '/help/jobseeker',
 
 	// Used for the "Get in touch" page footer link
 	support_email: '',
